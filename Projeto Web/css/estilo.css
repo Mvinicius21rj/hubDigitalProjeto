@@ -1,0 +1,24 @@
+/* Cabeçalho */
+header{
+    background-color: #020f59;
+    height: auto;
+}
+#logo a{
+    height: auto;
+    width: auto;
+    display: block;
+}
+
+/* Barra de Navegação */
+nav ul{
+    margin-left: 25%;
+}
+nav ul li a:link, a:visited{
+    color: #f2f2f2;
+    margin-top: 150px;
+    font-size: larger;
+}
+nav ul li a:hover{
+    color: #0db0d9;
+    border-bottom: 1px solid #0db0d9;
+}
